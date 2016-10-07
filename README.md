@@ -1,5 +1,5 @@
 # Direct Upload to AWS S3
-<p>Demonstrating direct upload to AWS S3. Full guide below.</p>
+<p>Demonstrating direct upload to AWS S3 based on the full guide below made by Heroku.</p>
 <p><a href="https://devcenter.heroku.com/articles/s3-upload-node" target="_blank" title="Direct to S3 File Uploads in Node.js">Direct to S3 File Uploads in Node.js</a> </p>
 
 ## Getting Started
